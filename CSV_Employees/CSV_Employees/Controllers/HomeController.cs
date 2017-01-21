@@ -32,6 +32,7 @@ namespace CSV_Employees.Controllers
             }
             else
             {
+
                 //check if content is empty or not
                 if (FileUpload != null && FileUpload.ContentLength > 0)
                 {  //validating the file extension - allow only ".csv" file extension
