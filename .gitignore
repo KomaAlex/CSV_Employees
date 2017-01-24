@@ -1,0 +1,5 @@
+*.txt
+*.php
+!index.py
+# This is the comment
+
